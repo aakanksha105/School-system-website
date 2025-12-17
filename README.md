@@ -63,3 +63,8 @@ git clone https://github.com/aakanksha105/School-system-website.git
 - Improve accessibility (ARIA roles, keyboard navigation)
 - Integrate dynamic announcements and event calendars
 - Deploy using GitHub Pages
+
+---
+
+### 👩‍💻 Author
+Aakanksha Bhondve
