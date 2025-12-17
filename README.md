@@ -55,7 +55,9 @@ git clone https://github.com/aakanksha105/School-system-website.git
 - DOM manipulation using JavaScript & jQuery
 - Structuring and styling multi-section websites
 
-##🔮 Future Enhancements
+--- 
+
+## 🔮 Future Enhancements
 - Add backend support for contact forms
 - Implement student/teacher login portals
 - Improve accessibility (ARIA roles, keyboard navigation)
