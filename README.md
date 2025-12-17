@@ -38,22 +38,26 @@ This project is ideal for showcasing **HTML/CSS fundamentals**, **JavaScript int
 
 ---
 
-## 📂 Repository Structure
+## 🚀 How to Run the Project
+1. Clone the repository:
 
-```text
-School-system-website/
-├── index.html              # Main webpage
-├── index.css               # Custom CSS styles
-├── school.js               # JavaScript logic
-├── jquery-3.6.0.js         # jQuery library
-├── images/                 # Image assets
-│   ├── school building.jpg
-│   ├── classroom.jpg
-│   ├── school lab.jpg
-│   ├── sportsday.jpg
-│   ├── summercamp.jpg
-│   ├── classical dance.jpg
-│   └── tabla.jpg
-├── PIC1.jpeg
-├── PIC2.jpeg
-└── README.md
+```bash
+git clone https://github.com/aakanksha105/School-system-website.git
+```
+
+2. Navigate to the project directory and open index.html in any modern web browser.
+
+3. Explore the website sections using the navigation menu.
+
+## 🎯 Learning Outcomes
+- Practical experience with responsive web design
+- Hands-on usage of Bootstrap grid system
+- DOM manipulation using JavaScript & jQuery
+- Structuring and styling multi-section websites
+
+##🔮 Future Enhancements
+- Add backend support for contact forms
+- Implement student/teacher login portals
+- Improve accessibility (ARIA roles, keyboard navigation)
+- Integrate dynamic announcements and event calendars
+- Deploy using GitHub Pages
